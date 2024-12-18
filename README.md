@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dcovrigaru
 - 👀 I’m interested in Software engineering as well as artifical inteligence and web development
-  - more of me at: deancov.com
+  - more of me at: [deancov.com](https://www.deancov.com/)
 - 📫 How to reach me ... dean@covrigaru.com
 
 <!---
